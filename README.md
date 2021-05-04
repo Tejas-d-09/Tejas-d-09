@@ -1,4 +1,4 @@
-- 👋 Hello world, I'm Tejas-d-09
+- 👋 Hello world, I'm [Tejas-d-09](github.com/tejas-d-09)
 - 👀 I’m interested in Python and R Programming for Data Science.
 - 🌱 I’m currently studying Bachelor's in Mathematics, Economics and Statistics
 
